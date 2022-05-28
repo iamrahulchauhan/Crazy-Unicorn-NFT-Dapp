@@ -66,9 +66,9 @@ export const ResponsiveWrapper = styled.div`
 `;
 
 export const StyledLogo = styled.img`
-  width: 200px;
+  width: 600px;
   @media (min-width: 767px) {
-    width: 300px;
+    width: 900px;
   }
   transition: width 0.5s;
   transition: height 0.5s;
@@ -383,7 +383,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "var(--primary-text)",
+              color: "#ffffff",
             }}
           >
             Please make sure you are connected to the right network (
@@ -395,7 +395,7 @@ function App() {
             style={{
               textAlign: "center",
               WebkitTextStrokeWidth: "20",
-              color: "#000000",
+              color: "#ffffff",
             }}
           >
             We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
