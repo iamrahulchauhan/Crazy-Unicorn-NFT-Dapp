@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x490B5C81b4b641BD22048e8bb7a1D287E708548B",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x490b5c81b4b641bd22048e8bb7a1d287e708548b",
+  "CONTRACT_ADDRESS": "0x2eCA93Bfc9e78aB35b90A886FD456712EdAe0bf9",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x2eCA93Bfc9e78aB35b90A886FD456712EdAe0bf9",
   "NETWORK": {
     "NAME": "Rinkeby",
     "SYMBOL": "Ether",
     "ID": 4
   },
-  "NFT_NAME": "Crazy Unicorns NFT",
-  "SYMBOL": "CUN",
-  "MAX_SUPPLY": 1025,
-  "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 0.01,
+  "NFT_NAME": "Cosmic Yacht NFT",
+  "SYMBOL": "CYN",
+  "MAX_SUPPLY": 6999,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/crazyunicornnft",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cosmicyachtnft",
   "SHOW_BACKGROUND": true
 }
